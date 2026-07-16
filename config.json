@@ -1,0 +1,17 @@
+{
+  "status": "khdama",
+  "games": [
+    {
+      "name": "Super Car Race",
+      "url": "https://amazon.com/dp/B00EXAMPLE1"
+    },
+    {
+      "name": "Ninja Runner",
+      "url": "https://amazon.com/dp/B00EXAMPLE2"
+    },
+    {
+      "name": "Puzzle Master",
+      "url": "https://amazon.com/dp/B00EXAMPLE3"
+    }
+  ]
+}
