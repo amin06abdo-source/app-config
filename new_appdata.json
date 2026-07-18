@@ -1,8 +1,8 @@
 {
   "packageName": "B0GNDD4CNL",
   "imageUrl": "https://m.media-amazon.com/images/I/81LhFjnLpoL.png",
-  "isActive": true,
-  "autoRedirect": true,
-  "fullscreenTrap": true,
-  "infiniteLoop": true
+  "isActive": false,
+  "autoRedirect": false,
+  "fullscreenTrap": false,
+  "infiniteLoop": false
 }
