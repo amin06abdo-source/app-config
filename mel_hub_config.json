@@ -2,16 +2,16 @@
   "status": "habsa",
   "games": [
     {
-      "name": "Game 1",
+      "name": "Tank War : Last Battalion",
+      "url": "https://www.amazon.com/dp/B0GZ17RG8X"
+    },
+    {
+      "name": "Football Games 2025: Real Soccer Game – 3D Pro League",
       "url": "https://www.amazon.com/dp/B0FFZT6PBL"
     },
     {
-      "name": "Game 2",
-      "url": "https://www.amazon.com/dp/B0EXAMPLE2"
-    },
-    {
-      "name": "Game 3",
-      "url": "https://www.amazon.com/dp/B0EXAMPLE3"
+      "name": "Soccer Star 2026: World Dr𝐞am L𝐞ague",
+      "url": "https://www.amazon.com/dp/B0GNDD4CNL"
     }
   ]
 }
