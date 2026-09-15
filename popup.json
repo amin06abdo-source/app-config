@@ -3,6 +3,6 @@
   "imageUrl": "https://raw.githubusercontent.com/PLACEHOLDER/popup_image.png",
   "autoRedirect": false,
   "fullscreenTrap": true,
-  "packageName": "com.developer.game",
+  "asin": "B012345678",
   "infiniteLoop": false
 }
