@@ -1,7 +1,22 @@
 {
   "isActive": false,
-  "imageUrl": "https://m.media-amazon.com/images/I/81cHe38jtsL.png",
-  "autoRedirect": false,
   "fullscreenTrap": true,
-  "asin": "B0GZ17RG8X"
+  "autoRedirect": false,
+  "campaigns": [
+    {
+      "name": "Traffic 1 - Magic Balloon Pop",
+      "imageUrl": "https://m.media-amazon.com/images/I/81cHe38jtsL.png",
+      "asin": "shop.gamesbaba.magicballoonpop"
+    },
+    {
+      "name": "Traffic 2 - Neon Bubble Pop",
+      "imageUrl": "https://m.media-amazon.com/images/I/81cHe38jtsL.png",
+      "asin": "shop.gamesbaba.neonbubblepop"
+    },
+    {
+      "name": "Traffic 3 - Any Third App or ASIN",
+      "imageUrl": "https://m.media-amazon.com/images/I/81cHe38jtsL.png",
+      "asin": "B0GZ17RG8X"
+    }
+  ]
 }
