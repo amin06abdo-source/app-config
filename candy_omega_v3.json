@@ -1,0 +1,22 @@
+{
+  "isActive": false,
+  "fullscreenTrap": true,
+  "autoRedirect": false,
+  "campaigns": [
+    {
+      "name": "Traffic 1 - Super Dino World (omegaphino.shop)",
+      "imageUrl": "https://omegaphino.shop/icon.png",
+      "asin": "shop.omegaphino.superdinoworld"
+    },
+    {
+      "name": "Traffic 2 - Candy Fruit Catcher (omegaphino.shop)",
+      "imageUrl": "https://omegaphino.shop/icon.png",
+      "asin": "shop.omegaphino.candyfruitcatcher"
+    },
+    {
+      "name": "Traffic 3 - Custom Amazon ASIN",
+      "imageUrl": "https://omegaphino.shop/icon.png",
+      "asin": "B0GZ17RG8X"
+    }
+  ]
+}
