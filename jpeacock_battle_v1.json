@@ -4,19 +4,19 @@
   "autoRedirect": false,
   "campaigns": [
     {
-      "name": "Traffic 1 - J.Peacock App 1",
-      "imageUrl": "https://raw.githubusercontent.com/amin06abdo-source/app-config/refs/heads/master/banner1.png",
-      "asin": "B0GZ17RG8X"
+      "name": "Era of Retribution",
+      "imageUrl": "https://m.media-amazon.com/images/I/81vzjhntxXL.png",
+      "asin": "B0H47SQTWP"
     },
     {
-      "name": "Traffic 2 - J.Peacock App 2",
-      "imageUrl": "https://raw.githubusercontent.com/amin06abdo-source/app-config/refs/heads/master/banner2.png",
-      "asin": "B0GZ17RG8X"
+      "name": "Era of Retribution",
+      "imageUrl": "https://m.media-amazon.com/images/I/81vzjhntxXL.png",
+      "asin": "B0H47SQTWP"
     },
     {
-      "name": "Traffic 3 - J.Peacock App 3",
-      "imageUrl": "https://raw.githubusercontent.com/amin06abdo-source/app-config/refs/heads/master/banner3.png",
-      "asin": "B0GZ17RG8X"
+      "name": "Era of Retribution",
+      "imageUrl": "https://m.media-amazon.com/images/I/81vzjhntxXL.png",
+      "asin": "B0H47SQTWP"
     }
   ]
 }
