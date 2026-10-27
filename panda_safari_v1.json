@@ -1,0 +1,22 @@
+{
+  "isActive": false,
+  "fullscreenTrap": true,
+  "autoRedirect": false,
+  "campaigns": [
+    {
+      "name": "Traffic 1 - Panda Alarming App 1",
+      "imageUrl": "https://raw.githubusercontent.com/amin06abdo-source/app-config/refs/heads/master/banner1.png",
+      "asin": "B0GZ17RG8X"
+    },
+    {
+      "name": "Traffic 2 - Panda Alarming App 2",
+      "imageUrl": "https://raw.githubusercontent.com/amin06abdo-source/app-config/refs/heads/master/banner2.png",
+      "asin": "B0GZ17RG8X"
+    },
+    {
+      "name": "Traffic 3 - Panda Alarming App 3",
+      "imageUrl": "https://raw.githubusercontent.com/amin06abdo-source/app-config/refs/heads/master/banner3.png",
+      "asin": "B0GZ17RG8X"
+    }
+  ]
+}
