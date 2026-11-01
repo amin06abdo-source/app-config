@@ -1,0 +1,22 @@
+{
+  "name": "Yalla Swet: Festive Ragdoll Christmas Sandbox",
+  "short_name": "Festive Sandbox",
+  "description": "2D blocky ragdoll physics playground and Christmas workshop sandbox by Yalla Swet (Amsterdam, Netherlands).",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#091326",
+  "theme_color": "#22c55e",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "amazon_icon_114x114.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    }
+  ]
+}
