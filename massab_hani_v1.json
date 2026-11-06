@@ -1,0 +1,22 @@
+{
+  "isActive": false,
+  "fullscreenTrap": true,
+  "autoRedirect": false,
+  "campaigns": [
+    {
+      "name": "Traffic 1 - Featured App",
+      "imageUrl": "https://raw.githubusercontent.com/amin06abdo-source/app-config/refs/heads/master/banner1.png",
+      "asin": "B0GZ17RG8X"
+    },
+    {
+      "name": "Traffic 2 - Featured App",
+      "imageUrl": "https://raw.githubusercontent.com/amin06abdo-source/app-config/refs/heads/master/banner2.png",
+      "asin": "B0GZ17RG8X"
+    },
+    {
+      "name": "Traffic 3 - Featured App",
+      "imageUrl": "https://raw.githubusercontent.com/amin06abdo-source/app-config/refs/heads/master/banner3.png",
+      "asin": "B0GZ17RG8X"
+    }
+  ]
+}
