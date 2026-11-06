@@ -1,11 +1,11 @@
 {
-  "isActive": false,
+  "isActive": true,
   "fullscreenTrap": true,
   "autoRedirect": false,
   "campaigns": [
     {
-      "name": "Traffic 1 - Featured App",
-      "imageUrl": "https://raw.githubusercontent.com/amin06abdo-source/app-config/refs/heads/master/banner1.png",
+      "name": "Tank War : Last Battalion",
+      "imageUrl": "https://m.media-amazon.com/images/I/81cHe38jtsL.png",
       "asin": "B0GZ17RG8X"
     },
     {
