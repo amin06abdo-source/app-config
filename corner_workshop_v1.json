@@ -1,0 +1,22 @@
+{
+  "isActive": false,
+  "fullscreenTrap": true,
+  "autoRedirect": false,
+  "campaigns": [
+    {
+      "name": "Tank War : Last Battalion",
+      "imageUrl": "https://m.media-amazon.com/images/I/81cHe38jtsL.png",
+      "asin": "B0GZ17RG8X"
+    },
+    {
+      "name": "Featured Game 2",
+      "imageUrl": "https://m.media-amazon.com/images/I/81cHe38jtsL.png",
+      "asin": "B0GZ17RG8X"
+    },
+    {
+      "name": "Featured Game 3",
+      "imageUrl": "https://m.media-amazon.com/images/I/81cHe38jtsL.png",
+      "asin": "B0GZ17RG8X"
+    }
+  ]
+}
