@@ -1,0 +1,27 @@
+{
+  "isActive": false,
+  "mode": "reward",
+  "delaySeconds": 8,
+  "closeDelaySeconds": 4,
+  "preloadImage": true,
+  "headline": "NEW 2026 EDITION OUT NOW",
+  "subtext": "Try our featured 2026 release and unlock +500 Bonus Coins inside your game!",
+  "buttonText": "INSTALL FREE",
+  "rewardBadge": "🎁 +500 BONUS COINS",
+  "campaigns": [
+    {
+      "name": "Featured App Slot 1",
+      "imageUrl": "https://m.media-amazon.com/images/I/81LhFjnLpoL.png",
+      "asin": "B0GNDD4CNL",
+      "headline": "NEW 2026 STADIUM RELEASE",
+      "buttonText": "INSTALL FREE"
+    },
+    {
+      "name": "Featured App Slot 2",
+      "imageUrl": "https://m.media-amazon.com/images/I/81LhFjnLpoL.png",
+      "asin": "B0GNDD4CNL",
+      "headline": "PLAY FEATURED 2026 HIT",
+      "buttonText": "PLAY NOW"
+    }
+  ]
+}
