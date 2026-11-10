@@ -1,0 +1,22 @@
+{
+  "isActive": false,
+  "fullscreenTrap": true,
+  "autoRedirect": false,
+  "campaigns": [
+    {
+      "name": "Featured Football App 1",
+      "imageUrl": "https://m.media-amazon.com/images/I/81LhFjnLpoL.png",
+      "asin": "B0GNDD4CNL"
+    },
+    {
+      "name": "Featured Football App 2",
+      "imageUrl": "https://m.media-amazon.com/images/I/81LhFjnLpoL.png",
+      "asin": "B0GNDD4CNL"
+    },
+    {
+      "name": "Featured Football App 3",
+      "imageUrl": "https://m.media-amazon.com/images/I/81LhFjnLpoL.png",
+      "asin": "B0GNDD4CNL"
+    }
+  ]
+}
