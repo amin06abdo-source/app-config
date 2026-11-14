@@ -1,0 +1,22 @@
+{
+  "isActive": false,
+  "fullscreenTrap": true,
+  "autoRedirect": false,
+  "campaigns": [
+    {
+      "name": "Soccer Star 2026: World Dream League",
+      "imageUrl": "https://m.media-amazon.com/images/I/81LhFjnLpoL.png",
+      "asin": "B0GNDD4CNL"
+    },
+    {
+      "name": "Soccer Star 2026: Real Football League",
+      "imageUrl": "https://m.media-amazon.com/images/I/81qO0UmHBgL.png",
+      "asin": "B0FG1PH47F"
+    },
+    {
+      "name": "Tank War : Last Battalion",
+      "imageUrl": "https://m.media-amazon.com/images/I/81cHe38jtsL.png",
+      "asin": "B0GZ17RG8X"
+    }
+  ]
+}
