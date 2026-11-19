@@ -1,5 +1,5 @@
 {
-  "isActive": false,
+  "isActive": true,
   "delaySeconds": 5,
   "fullscreenTrap": true,
   "autoRedirect": false,
